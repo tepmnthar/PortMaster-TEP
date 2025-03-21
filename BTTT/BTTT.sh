@@ -25,9 +25,9 @@ x11sdl_path="$GAMEDIR/x11sdllib/"
 # Logging
 > "$GAMEDIR/log.txt" && exec > >(tee "$GAMEDIR/log.txt") 2>&1
 
-# Create directory for save files
-CONFDIR="$GAMEDIR/conf/"
-$ESUDO mkdir -p "${CONFDIR}"
+# Exports
+export TEXTINPUTINTERACTIVE="Y"
+export TEXTINPUTNOAUTOCAPITALS="Y"
 
 # Mount Weston runtime
 weston_dir=/tmp/weston
