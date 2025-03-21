@@ -8,3 +8,6 @@ ldconfig -p | grep lib.so
 常用方法
 weston脚本加上ldd看库链接情况
 WAYLAND_DISPLAY= XDG_DATA_HOME=$CONFDIR ldd $GAMEDIR/$game_executable 
+
+截图
+ffmpeg -f fbdev -i /dev/fb0 -vframes 1 screenshot.png

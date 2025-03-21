@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./BTTT.sh</path>
+    <name>BTTT</name>
+    <desc>BTTT is a fan project to make a computer game of tabletop BattleTech, using the latest Total Warfare and BattleMech Manual rules from Catalyst games: https://www.catalystgamelabs.com/battletech</desc>
+    <releasedate>20210901T000000</releasedate>
+    <developer>Raptor007</developer>
+    <genre>Simulation</genre>
+    <image>./BTTT/screenshot.jpg</image>
+  </game>
+</gameList>

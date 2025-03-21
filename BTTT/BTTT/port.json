@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "name": "BTTT.zip",
+  "items": [
+    "BTTT.sh",
+    "BTTT"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "BTTT",
+    "porter": [
+      "TEP"
+    ],
+    "desc": "BTTT is a fan project to make a computer game of tabletop BattleTech, using the latest Total Warfare and BattleMech Manual rules from Catalyst games: https://www.catalystgamelabs.com/battletech",
+    "desc_md": null,
+    "inst": "BTTT is ready to go.",
+    "inst_md": null,
+    "genres": [
+      "simulation",
+      "strategy"
+    ],
+    "image": {
+      "screenshot": "screenshot.jpg",
+      "covers": [
+        "cover.png"
+      ],
+      "thumbnail": null,
+      "video": null
+    },
+    "rtr": true,
+    "exp": false,
+    "runtime": [
+      "weston_pkg_0.2.squashfs"
+    ],
+    "store": [],
+    "availability": "full",
+    "reqs": [
+      "hires"
+    ],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": ""
+  }
+}

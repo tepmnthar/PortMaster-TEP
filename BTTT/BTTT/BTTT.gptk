@@ -15,7 +15,7 @@ l1_hk = t                       # talk
 l2 = q                          # reset view
 l2_hk = f                       # zoom out
 
-l3 = esc
+l3 = f10                        # main menu
 
 r1 = mouse_slow                 # mouse slow
 r1_hk = o                       # target paperdoll
@@ -23,7 +23,7 @@ r1_hk = o                       # target paperdoll
 r2 = e                          # zoom to active area
 r2_hk = r                       # zoom in
 
-select = ecs                    # esc
+select = esc                    # esc
 start = enter                   # confirm action
 guide = \"
 
