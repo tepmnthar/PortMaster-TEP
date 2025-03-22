@@ -25,7 +25,7 @@ Thanks to the [Raptor007](https://github.com/Raptor007/BTTT) for creating this g
 |L2[HOTKEY]|zoom out [F]|
 |L3|main menu [F10]|
 |R1|mouse_slow|
-|R1[HOTKEY]|target paperdoll [O]|
+|R1[HOTKEY]|console [`]|
 |R2|zoom to active area [E]|
 |R2[HOTKEY]|zoom in [R]|
 |SELECT|ESC|

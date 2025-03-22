@@ -47,6 +47,7 @@ fi
 $ESUDO mount "$controlfolder/libs/${weston_runtime}.squashfs" "${weston_dir}"
 
 cd $GAMEDIR
+$ESUDO chmod +x -R $GAMEDIR/*
 $GPTOKEYB "$game_executable" -c "$GAMEDIR/$gptk_filename" &
 
 # Start Westonpack

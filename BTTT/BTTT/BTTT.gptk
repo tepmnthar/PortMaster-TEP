@@ -18,7 +18,7 @@ l2_hk = f                       # zoom out
 l3 = f10                        # main menu
 
 r1 = mouse_slow                 # mouse slow
-r1_hk = o                       # target paperdoll
+r1_hk = `                       # console
 
 r2 = e                          # zoom to active area
 r2_hk = r                       # zoom in
