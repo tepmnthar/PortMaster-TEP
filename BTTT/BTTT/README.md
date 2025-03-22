@@ -38,14 +38,14 @@ Thanks to the [Raptor007](https://github.com/Raptor007/BTTT) for creating this g
 |RIGHT_ANALOG|WASD|
 
 ### Interactive Input Mode Controls
-START+D-PAD DOWN to activate
-once activated
-D-PAD UP = previous letter
-D-PAD DOWN = next letter
-D-PAD RIGHT = next character
-D-PAD LEFT = delete and move back one character
-L1 = jump back 13 letters for current character
-R1 = jump forward 13 letters for current character
-A = send ENTER key and exit mode
-SELECT/HOTKEY = cancel and exit mode (deletes all characters)
-START = confirm and exit mode (also sends ENTER key)
+START+D-PAD DOWN to activate  
+once activated  
+D-PAD UP = previous letter  
+D-PAD DOWN = next letter  
+D-PAD RIGHT = next character  
+D-PAD LEFT = delete and move back one character  
+L1 = jump back 13 letters for current character  
+R1 = jump forward 13 letters for current character  
+A = send ENTER key and exit mode  
+SELECT/HOTKEY = cancel and exit mode (deletes all characters)  
+START = confirm and exit mode (also sends ENTER key)  
